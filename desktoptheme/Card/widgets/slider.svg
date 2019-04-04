@@ -20,6 +20,30 @@
   <defs
      id="defs866">
     <linearGradient
+       id="linearGradient908"
+       inkscape:collect="always">
+      <stop
+         id="stop904"
+         offset="0"
+         style="stop-color:#d7e5e8;stop-opacity:1" />
+      <stop
+         id="stop906"
+         offset="1"
+         style="stop-color:#a6c3ca;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient902"
+       inkscape:collect="always">
+      <stop
+         id="stop898"
+         offset="0"
+         style="stop-color:#d7e5e8;stop-opacity:1" />
+      <stop
+         id="stop900"
+         offset="1"
+         style="stop-color:#a6c3ca;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient892">
       <stop
@@ -33,7 +57,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient892"
+       xlink:href="#linearGradient902"
        id="linearGradient894"
        x1="30.516865"
        y1="1122.4664"
@@ -51,7 +75,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient892"
+       xlink:href="#linearGradient908"
        id="linearGradient895"
        gradientUnits="userSpaceOnUse"
        x1="30.516865"
@@ -75,9 +99,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="25.110529"
-     inkscape:cy="50.713419"
+     inkscape:zoom="15.839192"
+     inkscape:cx="44.427346"
+     inkscape:cy="38.148694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
