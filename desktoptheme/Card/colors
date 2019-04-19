@@ -15,6 +15,16 @@ ForegroundNormal=220,235,238
 [Colors:Button]
 ForegroundNormal=220,235,238
 
-[Colors:Compilmentary]
-BackgroundNormal=244,4,4
-ForegroundNormal=222,222,222
+[Colors:Complementary]
+BackgroundAlternate=59,64,69
+BackgroundNormal=127,127,127
+DecorationFocus=61,174,233
+DecorationHover=147,206,233
+ForegroundActive=147,206,233
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,174,230
+ForegroundVisited=61,174,230
