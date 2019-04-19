@@ -1,137 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="line.svg">
-  <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#light"
-       id="linearGradient967"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.5,-322.98746,-524.29147)"
-       x1="14.732141"
-       y1="1056.8412"
-       x2="30.732141"
-       y2="1056.8412" />
-    <linearGradient
-       id="light"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#6f97a0;stop-opacity:1;"
-         offset="0"
-         id="stop945" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#light"
-       id="linearGradient1554"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.5,-5.8814104,-228.56548)"
-       x1="14.732141"
-       y1="1056.8412"
-       x2="30.732141"
-       y2="1056.8412" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="10.4055"
-     inkscape:cy="17.861366"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="true" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-290.64999)">
-    <g
-       id="vertical-line">
-      <rect
-         transform="rotate(-90)"
-         y="3.6291192"
-         x="-308.25531"
-         height="1"
-         width="16"
-         id="rect963"
-         style="opacity:1;fill:url(#linearGradient967);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1540"
-         width="16"
-         height="1"
-         x="-308.25531"
-         y="2.6291194"
-         transform="rotate(-90)" />
-      <rect
-         transform="rotate(-90)"
-         y="4.6291189"
-         x="-308.25531"
-         height="1"
-         width="16"
-         id="rect1544"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="horizontal-line">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1548"
-         width="16"
-         height="1"
-         x="8.8507271"
-         y="300.3551" />
-      <rect
-         y="299.3551"
-         x="8.8507271"
-         height="1"
-         width="16"
-         id="rect1552"
-         style="opacity:1;fill:url(#linearGradient1554);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19051735;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1556"
-         width="16"
-         height="1"
-         x="8.8507271"
-         y="298.3551" />
-    </g>
+<svg id="svg8" width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient967" x1="14.732" x2="30.732" y1="1056.8" y2="1056.8" gradientTransform="matrix(1 0 0 .5 -322.99 -524.29)" gradientUnits="userSpaceOnUse" xlink:href="#light"/>
+  <linearGradient id="light" osb:paint="solid">
+   <stop id="stop945" stop-color="#6f97a0" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1554" x1="14.732" x2="30.732" y1="1056.8" y2="1056.8" gradientTransform="matrix(1 0 0 .5 -5.8814 -228.57)" gradientUnits="userSpaceOnUse" xlink:href="#light"/>
+ </defs>
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -290.65)">
+  <g id="vertical-line">
+   <rect id="rect963" transform="rotate(-90)" x="-308.26" y="3.6291" width="16" height="1" fill="url(#linearGradient967)" fill-rule="evenodd"/>
+   <rect id="rect1540" transform="rotate(-90)" x="-308.26" y="2.6291" width="16" height="1" fill="none"/>
+   <rect id="rect1544" transform="rotate(-90)" x="-308.26" y="4.6291" width="16" height="1" fill="none"/>
   </g>
+  <g id="horizontal-line">
+   <rect id="rect1548" x="8.8507" y="300.36" width="16" height="1" fill="none"/>
+   <rect id="rect1552" x="8.8507" y="299.36" width="16" height="1" fill="url(#linearGradient1554)" fill-rule="evenodd"/>
+   <rect id="rect1556" x="8.8507" y="298.36" width="16" height="1" fill="none"/>
+  </g>
+ </g>
 </svg>

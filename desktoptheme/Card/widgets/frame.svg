@@ -1,148 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48.000002"
-   version="1.1"
-   id="svg916"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="frame.svg">
-  <defs
-     id="defs910" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="17.383167"
-     inkscape:cy="24.062935"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="true" />
-  <metadata
-     id="metadata913">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1074.5197)">
-    <rect
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-topleft"
-       width="8"
-       height="8"
-       x="13.075418"
-       y="1085.4056" />
-    <rect
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-top"
-       width="8"
-       height="8"
-       x="21.075417"
-       y="1085.4056" />
-    <rect
-       y="1085.4056"
-       x="29.075417"
-       height="8"
-       width="8"
-       id="plain-topright"
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-right"
-       width="8"
-       height="8"
-       x="29.075417"
-       y="1093.4056" />
-    <rect
-       y="1093.4056"
-       x="21.075417"
-       height="8"
-       width="8"
-       id="plain-center"
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-left"
-       width="8"
-       height="8"
-       x="13.075417"
-       y="1093.4056" />
-    <rect
-       y="1101.4056"
-       x="13.075417"
-       height="8"
-       width="8"
-       id="plain-bottomleft"
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-bottom"
-       width="8"
-       height="8"
-       x="21.075417"
-       y="1101.4056" />
-    <rect
-       y="1101.4056"
-       x="29.075417"
-       height="8"
-       width="8"
-       id="plain-bottomright"
-       style="opacity:1;fill:#4b6871;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.92329407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#cadce0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.45914662;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-hint-top-margin"
-       width="8"
-       height="2"
-       x="1085.4056"
-       y="-23.075417"
-       transform="rotate(90)" />
-    <rect
-       style="opacity:1;fill:#cadce0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.45914662;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="plain-hint-left-margin"
-       width="8"
-       height="2"
-       x="13.075417"
-       y="1099.4056" />
-    <rect
-       transform="rotate(90)"
-       y="-29.075417"
-       x="1101.4056"
-       height="2"
-       width="8"
-       id="plain-hint-bottom-margin"
-       style="opacity:1;fill:#cadce0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.45914662;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="1093.4056"
-       x="29.075417"
-       height="2"
-       width="8"
-       id="plain-hint-right-margin"
-       style="opacity:1;fill:#cadce0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.45914662;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+<svg id="svg916" width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata913">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1074.5)" fill-rule="evenodd">
+  <rect id="plain-topleft" x="13.075" y="1085.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-top" x="21.075" y="1085.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-topright" x="29.075" y="1085.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-right" x="29.075" y="1093.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-center" x="21.075" y="1093.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-left" x="13.075" y="1093.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-bottomleft" x="13.075" y="1101.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-bottom" x="21.075" y="1101.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-bottomright" x="29.075" y="1101.4" width="8" height="8" fill="#4b6871"/>
+  <rect id="plain-hint-top-margin" transform="rotate(90)" x="1085.4" y="-23.075" width="8" height="2" fill="#cadce0"/>
+  <rect id="plain-hint-left-margin" x="13.075" y="1099.4" width="8" height="2" fill="#cadce0"/>
+  <rect id="plain-hint-bottom-margin" transform="rotate(90)" x="1101.4" y="-29.075" width="8" height="2" fill="#cadce0"/>
+  <rect id="plain-hint-right-margin" x="29.075" y="1093.4" width="8" height="2" fill="#cadce0"/>
+ </g>
 </svg>
