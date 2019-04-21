@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="17.001971"
      inkscape:cx="132.8526"
-     inkscape:cy="125.97611"
+     inkscape:cy="109.50743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1008,15 +1008,6 @@
        y2="976.29999" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#trim"
-       id="linearGradient1220"
-       gradientUnits="userSpaceOnUse"
-       x1="37.157124"
-       y1="884.38129"
-       x2="69.15712"
-       y2="884.38129" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#shadowinactive"
        id="linearGradient1222"
        gradientUnits="userSpaceOnUse"
@@ -1602,11 +1593,6 @@
          d="m 37.157123,855.88127 h 32 v 1 h -32 z"
          style="fill:url(#linearGradient1218);fill-opacity:1.0;stroke:none;stroke-width:1.00090003"
          inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:url(#linearGradient1220);fill-opacity:1;stroke:none;stroke-width:1.00090003"
-         d="m 37.157123,883.88127 h 32 v 1 h -32 z"
-         id="path1132" />
     </g>
     <g
        transform="matrix(-1,0,0,1,209.10998,78.183598)"
