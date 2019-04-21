@@ -48,7 +48,7 @@
        id="edge"
        osb:paint="solid">
       <stop
-         style="stop-color:#88b091;stop-opacity:1;"
+         style="stop-color:#6d9e78;stop-opacity:1;"
          offset="0"
          id="stop866" />
     </linearGradient>
@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.06"
-     inkscape:cx="35.987522"
-     inkscape:cy="33.680237"
+     inkscape:zoom="20.12"
+     inkscape:cx="20.537872"
+     inkscape:cy="48.711774"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
