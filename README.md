@@ -1,2 +1,2 @@
 # Card
-Card is a low contrast theme a little like Material Design but with cardboard. 
+Card is a low contrast theme with a strong retro feel designed to be easy on the eyes. 
