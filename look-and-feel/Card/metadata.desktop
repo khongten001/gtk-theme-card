@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=A low contrast look with a retro feel.
+Name=Card
+X-KDE-PluginInfo-Author=Phobian
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=phobian@gmx.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC BY 4.0
+X-KDE-PluginInfo-Name=Card
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=phobean.deviantart.com
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1299789,kns://colorschemes.knsrc/api.kde-look.org/1300756,kns://plasma-themes.knsrc/api.kde-look.org/1298643,kns://wallpaper.knsrc/api.kde-look.org/1299008
