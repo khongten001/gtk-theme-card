@@ -56,10 +56,10 @@ Rectangle {
         Image {
             id: rectangle
             anchors.centerIn: parent
-            width: Math.max(600, mainColumn.implicitWidth + 80)
-            height: Math.max(440, mainColumn.implicitHeight + 50)
+            width: Math.max(652, mainColumn.implicitWidth + 80)
+            height: Math.max(492, mainColumn.implicitHeight + 50)
 
-            source: "panel.png"
+            source: "panelnew.png"
 
             Column {
                 id: mainColumn
@@ -72,8 +72,8 @@ Rectangle {
                     verticalAlignment: Text.AlignVCenter
                     height: text.implicitHeight
                     width: parent.width
-                    text: "Welcome to phobian@bux"
-//                     text: textConstants.welcomeText.arg(sddm.hostName)
+//                     text: "Welcome to phobian@bux"
+                    text: textConstants.welcomeText.arg(sddm.hostName)
                     wrapMode: Text.WordWrap
                     font.pixelSize: 24
                     font.bold: true
