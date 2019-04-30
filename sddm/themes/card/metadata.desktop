@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Card
+Description=Card Theme
+Author=Phobian
+Copyright=
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://phobean.deviantart.com
+Screenshot=maldives.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=phobian@gmx.com
+Theme-Id=card
+Theme-API=2.0
