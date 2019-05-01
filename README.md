@@ -5,3 +5,4 @@ Wallpaper is here: [https://www.opendesktop.org/p/1299008/](https://www.opendesk
 
 
 GTK3 is here: [https://www.opendesktop.org/p/1301685/](https://www.opendesktop.org/p/1301685/)
+GTK2 is here: [https://www.opendesktop.org/p/1303289/](https://www.opendesktop.org/p/1303289/)
